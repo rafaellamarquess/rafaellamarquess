@@ -18,12 +18,5 @@ Some technologies I'm working on at the moment:
   <img align="center" alt="Rafa-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-BootStrap" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
   <img align="center" alt="Rafa-Git" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  
-</div>
-  
-  ##
-  <a href="https://github.com/rafaellamarquess">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellamarquess&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
