@@ -43,8 +43,8 @@
 
 **Contact me**
 
-<a href="mailto: fariassrafaella@gmail.com">
+<a href="mailto: marquesrafaella.p@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rafaella-marques-farias-14873b185/" target="_blank">
+<a href="http://www.linkedin.com/in/rafaellamarquess" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
