@@ -5,8 +5,6 @@
 
 ![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=flat-square&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/-ReactJs-333333?logo=react&logoColor=white&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=Node.js&logoColor=white)
@@ -14,17 +12,23 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
 
+**Databases**
 
-**Tools and Utilities**
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&labelColor=4479A1&logoColor=FFF)
+![PostegreSQL](https://img.shields.io/badge/PostgreSQL-333333?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=white)
+
+**Version Control & Project Management**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Jira](https://img.shields.io/badge/Jira-333333?style=flat&logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Miro](https://img.shields.io/badge/Miro-333333?logo=miro&logoColor=fff)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+**IDEs**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Intellij](https://img.shields.io/badge/Intellij%20Idea-333333?logo=intellij-idea&style=flat)
 
 **OS**
