@@ -1,7 +1,9 @@
 ## `Hi! 👻 I'm Rafaella Marques`
 
 
-``Hey there! I'm a backend developer with experience in Python, Java, Spring Boot, Node.js, and related frameworks. I have worked with full-stack web and desktop development, databases, cloud platforms, and modern development tools. I am constantly learning new technologies to enhance my skills in software architecture, integration, and deployment. These are some of the technologies I have worked with and am currently studying.``
+``Hey there! I'm a backend developer with experience in Python, Java, Spring Boot, Node.js, and related frameworks. I have worked with full-stack web and desktop development, databases, cloud platforms, and modern development tools. I am constantly learning new technologies to enhance my skills in software architecture, integration, and deployment..``
+
+``Here are some of the technologies I have worked with and am currently studying.``
 
 ---
 **Languages & Frameworks**
